@@ -5,7 +5,7 @@ export default function Home() {
     <div className=" flex items-center justify-center bg-red mt-20">
       <div className="grid grid-cols-1 md:grid-cols-1 gap-6 max-w-3xl w-full mt-100">
         <div className="bg-white p-10 shadow-lg rounded-lg mb-6 text-center">
-          <h2 className="text-2xl font-bold mc-4 text-center p-3 mt-3">sporting</h2>
+          <h2 className="text-2xl font-bold mc-4 text-center p-3 mt-3">Sporting</h2>
           <p className="mc-4 p-3">
           Sports: a lifestyle and health for body and mind
           Sport is not just a physical activity that some people practice in their free time, but rather a lifestyle that can greatly affect physical and psychological health. By exercising regularly, you can improve your quality of life and increase your overall level of happiness. Below is a comprehensive look at the importance of sports and its role in daily life.
@@ -40,6 +40,7 @@ export default function Home() {
           </button>
           </Link>
         </div>
+        
       <footer>
         <div className="mt-5 text-center mb-10">
           <h1>@@@@@@@@@@@@@@               AhmedRamdan             @@@@@@@@@@@@@@</h1>
